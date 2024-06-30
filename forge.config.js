@@ -13,8 +13,7 @@ module.exports = {
             config: {
                 authors: "iiPython",
                 description: "Basic TP-Link lightbulb controller written with Electron.",
-                iconUrl: "https://github.com/iiPythonx/tplinkbulb/raw/main/assets/icon.ico",
-                name: "TP-Link Bulb UI"
+                iconUrl: "https://github.com/iiPythonx/tplinkbulb/raw/main/assets/icon.ico"
             },
         },
         {
