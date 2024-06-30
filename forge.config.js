@@ -12,7 +12,9 @@ module.exports = {
             name: "@electron-forge/maker-squirrel",
             config: {
                 authors: "iiPython",
-                description: "Basic TP-Link lightbulb controller written with Electron."
+                description: "Basic TP-Link lightbulb controller written with Electron.",
+                iconUrl: "https://github.com/iiPythonx/tplinkbulb/raw/main/assets/icon.ico",
+                name: "TP-Link Bulb UI"
             },
         },
         {
